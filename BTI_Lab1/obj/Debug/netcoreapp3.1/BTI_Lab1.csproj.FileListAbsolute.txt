@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.exe
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.deps.json
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.runtimeconfig.json
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.dll
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\bin\Debug\netcoreapp3.1\BTI_Lab1.pdb
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.dll
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.pdb
+C:\Users\ASUS\source\repos\BTI_Lab1\BTI_Lab1\obj\Debug\netcoreapp3.1\BTI_Lab1.genruntimeconfig.cache
